@@ -77,4 +77,7 @@ img {
     .box {
         display: block;
     }
+    .datos_al_margen {
+        margin: 0 auto;
+    }
 }
