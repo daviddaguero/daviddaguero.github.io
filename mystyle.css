@@ -33,6 +33,7 @@ img {
     padding-left: 10px;
     padding-right: 20px;
     height: fit-content;
+    width: fit-content;
 }
 
 .datos_al_medio {
@@ -48,6 +49,7 @@ img {
     font-size: small;
     font-style: italic;
     margin-top: 10px;
+    width: fit-content;
 }
 .centrado {
     text-align: center;
