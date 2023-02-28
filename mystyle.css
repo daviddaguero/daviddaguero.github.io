@@ -1,13 +1,5 @@
-body {
-    /*background-color: #DCFCD4;
-    font-family: 'Sassy Frass', cursive;*/
-}
 h1 {
     text-align: center;
-}
-
-h2 {
-    /*text-align: center;*/
 }
 
 img {
@@ -76,5 +68,8 @@ img {
 @media screen and (max-width: 600px) {
     .box {
         display: block;
+    }
+    .datos_al_margen {
+        margin: 0 auto;
     }
 }
