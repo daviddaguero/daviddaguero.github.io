@@ -1,7 +1,7 @@
 console.log("entré al documento js");
 document.getElementById('imagenes').onclick = function() {
     console.log("capturé el evento");
-    window.open("http://www.github.com" , "ventana1" , "width=500,height=500,scrollbars=YES");
+    window.open("https://github.com/daviddaguero/daviddaguero.github.io/tree/gh-pages/mas_fotos_de_stacy_price" , "ventana1" , "width=500,height=500,scrollbars=YES");
 }
 
 document.getElementById('estilo_divertido').onclick = function() {
